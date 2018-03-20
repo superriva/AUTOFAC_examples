@@ -10,7 +10,7 @@
 /at/c#/test2/lib2
 /at/c#/test2/server
 ```
-These folders are used in the two json project files:
+These folders are used in two json project files:
 ```
 $ cat autofac.json
 {
