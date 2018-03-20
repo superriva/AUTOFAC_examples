@@ -1,0 +1,14 @@
+{
+    "defaultAssembly": "server",
+    "modules":
+    [
+    {
+	"type": "AutoFac.ServiceModule",
+	"properties": {
+	    "service": "/at/c#/test2/lib1/bin/Debug/netcoreapp2.0/lib1.dll",
+	}	
+    }
+    ]
+}
+
+
